@@ -2,4 +2,6 @@
 <resources>
     <string name="Hello">Hello World, Click Me!</string>
     <string name="ApplicationName">BrickventoryApp</string>
+    <string name="settings">Einstellungen</string>
+    <string name="connect">Verbinden</string>
 </resources>

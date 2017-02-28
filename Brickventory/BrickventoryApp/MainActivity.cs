@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Content;
 
 namespace BrickventoryApp
 {
@@ -12,7 +13,12 @@ namespace BrickventoryApp
             base.OnCreate(bundle);
             this.Title = "Brickventory";
             // Set our view from the "main" layout resource
-            // SetContentView (Resource.Layout.Main);
+            SetContentView (Resource.Layout.Main);
+        }
+
+        public void Connect_OnClick()
+        {
+            
         }
     }
 }

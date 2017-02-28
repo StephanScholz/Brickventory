@@ -82,6 +82,9 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
 			
+			// aapt resource value: 0x7f030001
+			public const int Settings = 2130903041;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -100,6 +103,12 @@ namespace BrickventoryApp
 			
 			// aapt resource value: 0x7f040000
 			public const int Hello = 2130968576;
+			
+			// aapt resource value: 0x7f040003
+			public const int connect = 2130968579;
+			
+			// aapt resource value: 0x7f040002
+			public const int settings = 2130968578;
 			
 			static String()
 			{
