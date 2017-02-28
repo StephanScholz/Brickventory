@@ -18,15 +18,7 @@ namespace BrickventoryApp
 
         public void Connect_OnClick()
         {
-            try
-            {
-                Intent changeIntent = new Intent(this, Java.Lang.Class);
-                StartActivity(changeIntent);
-            }
-            catch (System.Exception e)
-            {
-                Toast.MakeText(this, e.Message, ToastLength.Short).Show();
-            }
+            
         }
     }
 }
