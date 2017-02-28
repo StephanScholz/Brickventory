@@ -10,7 +10,7 @@ namespace BrickventoryApp
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-
+            this.Title = "Brickventory";
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
