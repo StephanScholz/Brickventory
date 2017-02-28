@@ -24,7 +24,7 @@ namespace BrickInventory
         //optional:
         private externalID[] external_ids;
 
-        public int Id
+        public string Id
         {
             get
             {
