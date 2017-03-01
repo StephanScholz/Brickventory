@@ -5,4 +5,5 @@
     <string name="settings">Einstellungen</string>
     <string name="connect">Verbinden</string>
     <string name="apiInput">rebrickable.com API-Key</string>
+    <string name="useThisApiKey">Key speichern</string>
 </resources>

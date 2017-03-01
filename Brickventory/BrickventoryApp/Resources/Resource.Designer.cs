@@ -90,6 +90,9 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f050002
 			public const int tf_username = 2131034114;
 			
+			// aapt resource value: 0x7f05000a
+			public const int useThisApiKey_button = 2131034122;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -139,6 +142,9 @@ namespace BrickventoryApp
 			
 			// aapt resource value: 0x7f040002
 			public const int settings = 2130968578;
+			
+			// aapt resource value: 0x7f040005
+			public const int useThisApiKey = 2130968581;
 			
 			static String()
 			{
