@@ -18,13 +18,15 @@ namespace BrickventoryApp
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
+            TextView t = FindViewById<TextView>(Resource.Id.textView1);
+            EditText e = FindViewById<EditText>(Resource.Id.apiInput);
+            SetContentView(Resource.Layout.);
         }
 
         
         protected override void OnStart()
         {
-            SetContentView(Resource.Layout.Settings);
+           
         }
     }
 }

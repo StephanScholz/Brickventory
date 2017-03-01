@@ -29,9 +29,7 @@ namespace BrickventoryApp
 
         private void Settings_Click(object sender, System.EventArgs e)
         {
-            SettingsActivity sa = new SettingsActivity();
-            Intent i = new Intent(this, sa.Class);
-            StartActivity(i);
+            StartActivity(typeof(SettingsActivity));
         }
     }
 }
