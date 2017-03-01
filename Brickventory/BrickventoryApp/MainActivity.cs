@@ -23,7 +23,7 @@ namespace BrickventoryApp
         private void Connect_Click(object sender, System.EventArgs e)
         {
             Toast.MakeText(this, "Connect", ToastLength.Short).Show();
-            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("");
+            StartActivity(typeof(LoginActivity));
 
         }
 

@@ -20,7 +20,7 @@ namespace BrickventoryApp
             base.OnCreate(savedInstanceState);
             TextView t = FindViewById<TextView>(Resource.Id.textView1);
             EditText e = FindViewById<EditText>(Resource.Id.apiInput);
-            SetContentView(Resource.Layout.);
+            //SetContentView(Resource.Layout.);
         }
 
         
