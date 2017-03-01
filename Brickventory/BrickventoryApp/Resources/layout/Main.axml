@@ -3,17 +3,17 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-  <Button
-      android:text="@string/connect"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:id="@+id/connect_button"
-      android:onClick="Connect_Onclick"
-      android:enabled="true" />
-  <Button
-      android:text="@string/settings"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:id="@+id/settings_button"
-      android:onClick="Settings_OnClick()" />
+    <Button
+        android:text="@string/connect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/connect_button"
+        android:onClick="Connect_Onclick"
+        android:enabled="true" />
+    <Button
+        android:text="@string/settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/settings_button"
+        android:onClick="Settings_OnClick()" />
 </LinearLayout>
