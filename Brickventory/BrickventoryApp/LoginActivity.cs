@@ -18,6 +18,7 @@ namespace BrickventoryApp
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            SetContentView(Resource.Layout.Login);
             Button login = FindViewById<Button>(Resource.Id.login_button);
             login.Click += Login_Click;
         }
