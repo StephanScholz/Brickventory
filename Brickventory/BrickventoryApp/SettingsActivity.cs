@@ -18,8 +18,14 @@ namespace BrickventoryApp
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            Toast.MakeText(this, "Willkommen im nächsten Bildschirm", ToastLength.Long);
+            //Toast.MakeText(this, "Willkommen im nächsten Bildschirm", ToastLength.Long);
             // Create your application here
+        }
+
+        
+        protected override void OnStart()
+        {
+            Toast.MakeText(this, "Willkommen im nächsten Bildschirm", ToastLength.Long);
         }
     }
 }
