@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace BrickventoryApp
 {
-    [Activity(Label = "LoginActivity")]
+    [Activity(Label = "Login")]
     public class LoginActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
@@ -25,7 +25,7 @@ namespace BrickventoryApp
 
         private void Login_Click(object sender, System.EventArgs e)
         {
-            Toast.MakeText(this, "Login", ToastLength.Long);
+            Toast.MakeText(this, "Login", ToastLength.Long).Show();
         }
     }
 

@@ -21,13 +21,12 @@ namespace BrickventoryApp
             SetContentView(Resource.Layout.Settings);
             TextView t = FindViewById<TextView>(Resource.Id.textView1);
             EditText e = FindViewById<EditText>(Resource.Id.apiInput);
-            //SetContentView(Resource.Layout.);
         }
 
         
         protected override void OnStart()
         {
-           
+            base.OnStart();
         }
     }
 }
