@@ -25,8 +25,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tf_username"
-        android:text="Test"
-        android:background="@android:color/background_light" />
+        android:background="@android:color/background_light"
+        android:textColor="@android:color/black" />
     <TextView
         android:text="Passwort"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -40,7 +40,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tf_password"
-        android:background="@android:color/background_light" />
+        android:background="@android:color/background_light"
+        android:textColor="@android:color/black" />
     <Button
         android:text="Einloggen"
         android:layout_width="match_parent"
