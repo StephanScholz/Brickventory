@@ -3,6 +3,7 @@ using Android.Widget;
 using Android.OS;
 using Android.Content;
 using Android.Views;
+using System.Net;
 
 namespace BrickventoryApp
 {
@@ -24,6 +25,8 @@ namespace BrickventoryApp
         private void Connect_Click(object sender, System.EventArgs e)
         {
             Toast.MakeText(this, "Connect", ToastLength.Short).Show();
+            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("");
+
         }
 
         private void Settings_Click(object sender, System.EventArgs e)
