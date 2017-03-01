@@ -4,4 +4,5 @@
     <string name="ApplicationName">BrickventoryApp</string>
     <string name="settings">Einstellungen</string>
     <string name="connect">Verbinden</string>
+    <string name="apiInput">rebrickable.com API-Key</string>
 </resources>

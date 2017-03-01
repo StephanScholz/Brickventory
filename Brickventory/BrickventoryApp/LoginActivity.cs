@@ -15,7 +15,7 @@ namespace BrickventoryApp
     [Activity(Label = "Login")]
     public class LoginActivity : Activity
     {
-        public override void onCreate(Bundle bundle)
+        protected override void onCreate(Bundle bundle)
         {
             
         }

@@ -18,8 +18,6 @@ namespace BrickventoryApp
             settings.Click += Settings_Click;
             Button connect = FindViewById<Button>(Resource.Id.connect_button);
             connect.Click += Connect_Click;
-
-
         }
 
         private void Connect_Click(object sender, System.EventArgs e)
@@ -31,12 +29,9 @@ namespace BrickventoryApp
 
         private void Settings_Click(object sender, System.EventArgs e)
         {
-            //Toast.MakeText(this, "Settings", ToastLength.Short).Show();
             SettingsActivity sa = new SettingsActivity();
             Intent i = new Intent(this, sa.Class);
             StartActivity(i);
-
-            //throw new System.NotImplementedException();
         }
     }
 }
