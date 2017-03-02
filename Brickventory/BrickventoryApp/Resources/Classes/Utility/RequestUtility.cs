@@ -11,7 +11,6 @@ using Android.Views;
 using Android.Widget;
 using System.Net;
 using System.IO;
-using UserData;
 using Newtonsoft.Json;
 
 // A Utility-Class, that makes Access and Usage of WebRequests easier
