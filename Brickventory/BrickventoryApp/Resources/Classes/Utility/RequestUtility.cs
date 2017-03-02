@@ -20,7 +20,7 @@ namespace BrickventoryApp.Resources.classes.Utility
     public static class RequestUtility
     {
 
-        private const string API_KEY = "faaf91147e37117cfe0d94519f8fde41";
+        private const string API_KEY = "?key=faaf91147e37117cfe0d94519f8fde41";
 
         public static string Create_UserToken(string username, string password)
         {
@@ -28,7 +28,7 @@ namespace BrickventoryApp.Resources.classes.Utility
 
             return POST_Request("http://rebrickable.com/api/v3/users/_token/" + API_KEY, parameters);
         }
-
+        
         private static string POST_Request(string url, string parameters)
         {
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
