@@ -35,7 +35,7 @@ namespace BrickventoryApp.Resources.classes.Utility
             request.Method = "POST";
             request.ContentType = "application/x-www-form-urlencoded";
             request.Accept = "application/json";
-            request.Credentials = CredentialCache.DefaultNetworkCredentials;
+            request.UseDefaultCredentials = true;
 
             using (StreamWriter streamWriter = new StreamWriter(request.GetRequestStream()))
             {
