@@ -37,6 +37,8 @@ namespace BrickventoryApp.Resources.classes.Utility
             request.Method = "POST";
             request.ContentType = "application/x-www-form-urlencoded";
             request.Accept = "application/json";
+            request.Headers[HttpRequestHeader.Authorization] = "key faaf91147e37117cfe0d94519f8fde41";
+            request.Host = "rebrickable.com";
             request.UseDefaultCredentials = true;
             request.Credentials = CredentialCache.DefaultCredentials;
 
