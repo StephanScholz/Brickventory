@@ -36,9 +36,11 @@ namespace BrickventoryApp
             UserSession session = UserSession.Create();
             bool loginSuccess = session.Login(username, password);
             if (loginSuccess)
-                Toast.MakeText(this, "Successfully Connected!", ToastLength.Long).Show();
+                Toast.MakeText(this, "Login successful!", ToastLength.Long).Show();
             else
-                Toast.MakeText(this, "Connection Failed!", ToastLength.Long).Show();
+                Toast.MakeText(this, "Login failed!", ToastLength.Long).Show();
+
+
         }
     }
 
