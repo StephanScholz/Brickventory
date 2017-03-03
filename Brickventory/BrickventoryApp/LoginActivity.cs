@@ -11,10 +11,10 @@ using Android.Views;
 using Android.Widget;
 using System.Net;
 using System.IO;
-using UserData;
 using Newtonsoft.Json;
 
 using BrickventoryApp.Resources.classes.Utility;
+using Brickinventory.Classes.Session;
 
 namespace BrickventoryApp
 {
@@ -33,7 +33,12 @@ namespace BrickventoryApp
         {
             string username = FindViewById<EditText>(Resource.Id.tf_username).Text;
             string password = FindViewById<EditText>(Resource.Id.tf_password).Text;
-            RequestUtility.Create_UserToken(username, password);
+            UserSession session = UserSession.Create();
+            bool loginSuccess = session.Login(username, password);
+            if (loginSuccess)
+                Toast.MakeText(this, "Successfully Connected!", ToastLength.Long).Show();
+            else
+                Toast.MakeText(this, "Connection Failed!", ToastLength.Long).Show();
         }
     }
 

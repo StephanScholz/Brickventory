@@ -76,7 +76,8 @@
     <Compile Include="Resources\classes\partColor.cs" />
     <Compile Include="Resources\classes\partList.cs" />
     <Compile Include="Resources\classes\partListParts.cs" />
-    <Compile Include="Resources\classes\User.cs" />
+    <Compile Include="Resources\classes\Session\UserSession.cs" />
+    <Compile Include="Resources\classes\UserData.cs" />
     <Compile Include="Resources\classes\Utility\RequestUtility.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

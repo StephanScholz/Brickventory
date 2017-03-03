@@ -10,10 +10,10 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace UserData
+namespace Brickinventory.Classes
 {
-    class User
+    public class UserData
     {
-        public string user_token;
+        public string user_token = "";
     }
 }
