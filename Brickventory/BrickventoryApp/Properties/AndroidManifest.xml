@@ -2,5 +2,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="BrickventoryApp.BrickventoryApp" android:versionCode="1" android:versionName="1.0" android:installLocation="preferExternal">
 	<uses-sdk android:minSdkVersion="16" />
 	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="BrickventoryApp" android:icon="@drawable/Icon"></application>
+	<application android:label="Brickventory" android:icon="@drawable/robo3ta"></application>
 </manifest>
