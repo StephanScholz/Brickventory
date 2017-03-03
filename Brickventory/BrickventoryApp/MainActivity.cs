@@ -7,7 +7,7 @@ using System.Net;
 
 namespace BrickventoryApp
 {
-    [Activity(Label = "Brickventory", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Brickventory", MainLauncher = true, Icon = "@drawable/robo3ta")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
@@ -22,7 +22,7 @@ namespace BrickventoryApp
 
         private void Connect_Click(object sender, System.EventArgs e)
         {
-            Toast.MakeText(this, "Connect", ToastLength.Short).Show();
+            //Toast.MakeText(this, "Connect", ToastLength.Short).Show();
             StartActivity(typeof(LoginActivity));
 
         }

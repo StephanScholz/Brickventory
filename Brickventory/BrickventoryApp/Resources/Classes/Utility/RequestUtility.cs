@@ -18,8 +18,11 @@ namespace BrickventoryApp.Resources.classes.Utility
 {
     public static class RequestUtility
     {
+        //Stephan
+        //private const string API_KEY = "?key=faaf91147e37117cfe0d94519f8fde41";
+        //Patrick
+        private const string API_KEY = "?key=1ab63a1718734c9749c12b7b4631bb8e";
 
-        private const string API_KEY = "?key=faaf91147e37117cfe0d94519f8fde41";
 
         public static string Create_UserToken(string username, string password)
         {
@@ -35,10 +38,10 @@ namespace BrickventoryApp.Resources.classes.Utility
             request.ContentType = "application/x-www-form-urlencoded";
             request.Accept = "application/json";
             request.UseDefaultCredentials = true;
+            request.Credentials = CredentialCache.DefaultCredentials;
 
             using (StreamWriter streamWriter = new StreamWriter(request.GetRequestStream()))
             {
-
                 streamWriter.Write(parameters);
                 streamWriter.Flush();
                 streamWriter.Close();
