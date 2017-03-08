@@ -40,7 +40,8 @@ namespace Brickinventory.Classes.Session
             if (userData != null)
                 userData = null;
 
-            userData = JsonConvert.DeserializeObject<UserData>(RequestUtility.Create_UserToken(username, password));
+            userData = new UserData();
+            userData.user_token = JsonConvert.DeserializeObject<UserData>(RequestUtility.Create_UserToken(username, password));
             if(userData != null && !userData.user_token.Equals(""))
             {
                 return true;

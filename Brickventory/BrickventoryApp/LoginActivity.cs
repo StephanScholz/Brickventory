@@ -34,15 +34,22 @@ namespace BrickventoryApp
             string username = FindViewById<EditText>(Resource.Id.tf_username).Text;
             string password = FindViewById<EditText>(Resource.Id.tf_password).Text;
             UserSession session = UserSession.Create();
-            bool loginSuccess = session.Login(username, password);
-            if (loginSuccess)
+            try
             {
-                Toast.MakeText(this, "Login successful!", ToastLength.Long).Show();
-                Toast.MakeText(this, session.userData.user_token, ToastLength.Long).Show();
-            }
-            else
-                Toast.MakeText(this, "Login failed!", ToastLength.Long).Show();
+                bool loginSuccess = session.Login(username, password);
 
+                if (loginSuccess)
+                {
+                    Toast.MakeText(this, "Login successful!", ToastLength.Long).Show();
+                    Toast.MakeText(this, session.userData.user_token, ToastLength.Long).Show();
+                }
+                else
+                    Toast.MakeText(this, "Login failed!", ToastLength.Long).Show();
+            }
+            catch (Exception ex)
+            {
+                Toast.MakeText(this, ex.Message, ToastLength.Long).Show();
+            }
 
         }
     }

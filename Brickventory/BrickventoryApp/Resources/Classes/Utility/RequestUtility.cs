@@ -21,26 +21,31 @@ namespace BrickventoryApp.Resources.classes.Utility
         //Stephan
         //private const string API_KEY = "?key=faaf91147e37117cfe0d94519f8fde41";
         //Patrick
-        private const string API_KEY = "?key=1ab63a1718734c9749c12b7b4631bb8e";
+        private const string API_KEY = "?key=4e8ef10c214e3a3469c88274f884362f";
 
 
         public static string Create_UserToken(string username, string password)
         {
             string parameters = "username=" + username + "&password=" + password;
 
-            return POST_Request("http://rebrickable.com/api/v3/users/_token/" + API_KEY, parameters);
+            //return POST_Request("http://rebrickable.com/api/v3/users/_token/" + API_KEY, parameters);
+            return POST_Request("http://rebrickable.com/api/v3/users/_token/", parameters);
         }
         
         private static string POST_Request(string url, string parameters)
         {
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             request.Method = "POST";
+            //request.UserAgent = "Mozilla/5.0";
             request.ContentType = "application/x-www-form-urlencoded";
             request.Accept = "application/json";
-            request.Headers[HttpRequestHeader.Authorization] = "key faaf91147e37117cfe0d94519f8fde41";
+            request.Headers[HttpRequestHeader.Authorization] = "key 4e8ef10c214e3a3469c88274f884362f";
+            //request.Headers.Set(HttpRequestHeader.Authorization, "key 4e8ef10c214e3a3469c88274f884362f");
             request.Host = "rebrickable.com";
             request.UseDefaultCredentials = true;
             request.Credentials = CredentialCache.DefaultCredentials;
+            request.Proxy.Credentials = CredentialCache.DefaultCredentials;
+
 
             using (StreamWriter streamWriter = new StreamWriter(request.GetRequestStream()))
             {
@@ -48,6 +53,10 @@ namespace BrickventoryApp.Resources.classes.Utility
                 streamWriter.Flush();
                 streamWriter.Close();
             }
+            //StreamWriter streamWriter = new StreamWriter(request.GetRequestStream());
+            //streamWriter.Write(parameters);
+            //streamWriter.Flush();
+            //streamWriter.Close();
 
             HttpWebResponse httpResponse = (HttpWebResponse)request.GetResponse();
             using (StreamReader streamReader = new StreamReader(httpResponse.GetResponseStream()))
@@ -55,6 +64,5 @@ namespace BrickventoryApp.Resources.classes.Utility
                 return streamReader.ReadToEnd();
             }
         }
-
     }
 }
