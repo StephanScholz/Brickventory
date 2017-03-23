@@ -26,6 +26,8 @@ namespace BrickventoryApp.Resources.classes.Utility
 
         public static string Create_UserToken(string username, string password)
         {
+            username = WebUtility.UrlEncode(username);
+            password = WebUtility.UrlEncode(password);
             string parameters = "username=" + username + "&password=" + password;
 
             return POST_Request("http://rebrickable.com/api/v3/users/_token/" + API_KEY, parameters);
@@ -39,8 +41,6 @@ namespace BrickventoryApp.Resources.classes.Utility
             request.Accept = "application/json";
             request.Headers[HttpRequestHeader.Authorization] = "key faaf91147e37117cfe0d94519f8fde41";
             request.Host = "rebrickable.com";
-            request.UseDefaultCredentials = true;
-            request.Credentials = CredentialCache.DefaultCredentials;
 
             using (StreamWriter streamWriter = new StreamWriter(request.GetRequestStream()))
             {
@@ -48,8 +48,9 @@ namespace BrickventoryApp.Resources.classes.Utility
                 streamWriter.Flush();
                 streamWriter.Close();
             }
-
+            
             HttpWebResponse httpResponse = (HttpWebResponse)request.GetResponse();
+
             using (StreamReader streamReader = new StreamReader(httpResponse.GetResponseStream()))
             {
                 return streamReader.ReadToEnd();
