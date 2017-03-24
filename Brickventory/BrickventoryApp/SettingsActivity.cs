@@ -10,6 +10,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Android.Preferences;
 
 namespace BrickventoryApp
 {
@@ -31,24 +32,25 @@ namespace BrickventoryApp
 
         private void LoadApiKey()
         {
-            //StreamReader sr = new StreamReader(filename, false);
-            //api_input.Text = sr.ReadLine();
+            ISharedPreferences prefs = PreferenceManager.GetDefaultSharedPreferences(this);
+            api_input.Text = prefs.GetString("apikey", "none");
         }
 
+        
         private void Save_Click(object sender, EventArgs e)
         {
-            Toast.MakeText(this, "API-Key gespeichert. Haha, also ob!", ToastLength.Short).Show();
             try
             {
-                StreamWriter sw = new StreamWriter(filename, false);
-                sw.WriteLine(api_input.Text);
-                sw.Close();
+                ISharedPreferences prefs = PreferenceManager.GetDefaultSharedPreferences(this);
+                ISharedPreferencesEditor editor = prefs.Edit();
+                editor.PutString("apikey", api_input.Text);
+                editor.Apply();
+                Toast.MakeText(this, "API-Key gespeichert", ToastLength.Long).Show();
             }
             catch (Exception ex)
             {
                 Toast.MakeText(this, ex.Message, ToastLength.Long);
             }
-
         }
 
         //protected override void OnStart()
