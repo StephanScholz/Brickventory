@@ -18,34 +18,37 @@ namespace Brickinventory.Classes.Session
     {
         private static UserSession instance;
         public UserData userData { get; set; }
-
-        static UserSession()
-        {
-        }
+        private RequestUtility reqUtil;
 
         private UserSession()
         {
+            reqUtil = new RequestUtility();
         }
 
-        public static UserSession Create()
+        public static UserSession GetInstance()
         {
             if (instance == null)
                 instance = new UserSession();
 
             return instance;
         }
-
+        
         public bool Login(string username, string password)
         {
             if (userData != null)
                 userData = null;
 
-            userData = JsonConvert.DeserializeObject<UserData>(RequestUtility.Create_UserToken(username, password));
+            userData = JsonConvert.DeserializeObject<UserData>(reqUtil.Create_UserToken(username, password));
             if(userData != null && !userData.user_token.Equals(""))
             {
                 return true;
             }
             return false;
+        }
+
+        public void SetApiKey(string key)
+        {
+            reqUtil.SetApiKey(key);
         }
     }
 }

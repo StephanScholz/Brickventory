@@ -16,15 +16,20 @@ using Newtonsoft.Json;
 // A Utility-Class, that makes Access and Usage of WebRequests easier
 namespace BrickventoryApp.Resources.classes.Utility
 {
-    public static class RequestUtility
+    public class RequestUtility
     {
         //Stephan
         //private const string API_KEY = "?key=faaf91147e37117cfe0d94519f8fde41";
         //Patrick
-        private const string API_KEY = "?key=4e8ef10c214e3a3469c88274f884362f";
+        private string apiKey;
+        public void SetApiKey(string key)
+        {
+            if(apiKey == "")
+                apiKey = key;
+        }
 
 
-        public static string Create_UserToken(string username, string password)
+        public string Create_UserToken(string username, string password)
         {
             username = WebUtility.UrlEncode(username);
             password = WebUtility.UrlEncode(password);
@@ -34,7 +39,7 @@ namespace BrickventoryApp.Resources.classes.Utility
             return POST_Request("http://rebrickable.com/api/v3/users/_token/", parameters);
         }
         
-        private static string POST_Request(string url, string parameters)
+        private string POST_Request(string url, string parameters)
         {
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             request.Method = "POST";

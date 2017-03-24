@@ -33,7 +33,7 @@ namespace BrickventoryApp
         {
             string username = FindViewById<EditText>(Resource.Id.tf_username).Text;
             string password = FindViewById<EditText>(Resource.Id.tf_password).Text;
-            UserSession session = UserSession.Create();
+            UserSession session = UserSession.GetInstance();
             try
             {
                 bool loginSuccess = session.Login(username, password);

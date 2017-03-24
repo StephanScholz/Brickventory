@@ -11,6 +11,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.Preferences;
+using BrickventoryApp.Resources.classes.Utility;
+using Brickinventory.Classes.Session;
 
 namespace BrickventoryApp
 {
@@ -18,7 +20,6 @@ namespace BrickventoryApp
     public class SettingsActivity : Activity
     {
         EditText api_input;
-        string filename = "api";
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -33,7 +34,9 @@ namespace BrickventoryApp
         private void LoadApiKey()
         {
             ISharedPreferences prefs = PreferenceManager.GetDefaultSharedPreferences(this);
-            api_input.Text = prefs.GetString("apikey", "none");
+            string key = prefs.GetString("apikey", "none");
+            UserSession.GetInstance().SetApiKey(key);
+            api_input.Text = key;
         }
 
         
