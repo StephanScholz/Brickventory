@@ -11,11 +11,13 @@ using Android.Views;
 using Android.Widget;
 using Newtonsoft.Json;
 using BrickventoryApp.Resources.classes.Utility;
+using BrickInventory.Classes;
 
 namespace Brickinventory.Classes.Session
 {
     public sealed class UserSession
     {
+        private SetListStorage setListStorage;
         private static UserSession instance;
         public UserData userData { get; set; }
         private RequestUtility reqUtil;
@@ -44,6 +46,11 @@ namespace Brickinventory.Classes.Session
                 return true;
             }
             return false;
+        }
+
+        public void GetSetLists()
+        {
+            setListStorage = JsonConvert.DeserializeObject<SetListStorage>(reqUtil.GetSetLists(userData));
         }
 
         public void SetApiKey(string key)

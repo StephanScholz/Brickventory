@@ -77,6 +77,10 @@
     <Compile Include="Resources\classes\partList.cs" />
     <Compile Include="Resources\classes\partListParts.cs" />
     <Compile Include="Resources\classes\Session\UserSession.cs" />
+    <Compile Include="Resources\classes\Set.cs" />
+    <Compile Include="Resources\classes\SetList.cs" />
+    <Compile Include="Resources\classes\SetListStorage.cs" />
+    <Compile Include="Resources\classes\SetStorage.cs" />
     <Compile Include="Resources\classes\UserData.cs" />
     <Compile Include="Resources\classes\Utility\RequestUtility.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
