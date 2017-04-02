@@ -4,6 +4,8 @@ using Android.OS;
 using Android.Content;
 using Android.Views;
 using System.Net;
+using Android.Preferences;
+using Brickinventory.Classes.Session;
 
 namespace BrickventoryApp
 {
@@ -23,6 +25,19 @@ namespace BrickventoryApp
             settings.Click += Settings_Click;
             Button connect = FindViewById<Button>(Resource.Id.connect_button);
             connect.Click += Connect_Click;
+            InitApiKey();
+        }
+
+        private void InitApiKey()
+        {
+            ISharedPreferences prefs = PreferenceManager.GetDefaultSharedPreferences(this);
+            string key = prefs.GetString("apikey", "none");
+            if(key == "none")
+            {
+                Toast.MakeText(this, "Bitte gib einen Gültigen API-Key ein.", ToastLength.Long);
+                return;
+            }
+            UserSession.GetInstance().SetApiKey(key);
         }
 
         private void Connect_Click(object sender, System.EventArgs e)
