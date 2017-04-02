@@ -42,6 +42,7 @@ namespace BrickventoryApp
                 {
                     Toast.MakeText(this, "Login successful!", ToastLength.Long).Show();
                     Toast.MakeText(this, session.userData.user_token, ToastLength.Long).Show();
+                    StartActivity(typeof(SetListViewActivity));
                 }
                 else
                     Toast.MakeText(this, "Login failed!", ToastLength.Long).Show();
