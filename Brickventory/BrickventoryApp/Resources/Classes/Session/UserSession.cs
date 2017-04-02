@@ -12,6 +12,7 @@ using Android.Widget;
 using Newtonsoft.Json;
 using BrickventoryApp.Resources.classes.Utility;
 using BrickInventory.Classes;
+using BrickventoryApp;
 
 namespace Brickinventory.Classes.Session
 {
@@ -52,6 +53,12 @@ namespace Brickinventory.Classes.Session
                 return true;
             }
             return false;
+        }
+
+        public void Logout()
+        {
+            if (userData != null)
+                userData = null;
         }
 
         public void GetSetLists()

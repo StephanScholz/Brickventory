@@ -2427,13 +2427,13 @@ namespace BrickventoryApp
 			public const int multiply = 2131361835;
 			
 			// aapt resource value: 0x7f0a00aa
-			public const int nav_about = 2131361962;
+			public const int nav_logout = 2131361962;
 			
 			// aapt resource value: 0x7f0a00a8
-			public const int nav_home = 2131361960;
+			public const int nav_profile = 2131361960;
 			
 			// aapt resource value: 0x7f0a00a9
-			public const int nav_messages = 2131361961;
+			public const int nav_settings = 2131361961;
 			
 			// aapt resource value: 0x7f0a0079
 			public const int navigation_header_container = 2131361913;

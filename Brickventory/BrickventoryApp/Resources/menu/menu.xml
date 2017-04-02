@@ -3,13 +3,13 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
   <group>
     <item
-    android:id="@+id/nav_home"
+    android:id="@+id/nav_profile"
     android:title="Profil" />
     <item
-    android:id="@+id/nav_messages"
+    android:id="@+id/nav_settings"
     android:title="Einstellungen" />
     <item
-    android:id="@+id/nav_about"
+    android:id="@+id/nav_logout"
     android:title="Logout" />
   </group>
 </menu>
