@@ -14,6 +14,11 @@ namespace BrickventoryApp
         {
             base.OnCreate(bundle);
             SetContentView (Resource.Layout.Main);
+            var toolbar = FindViewById<Toolbar>(Resource.Id.toolbar1);
+            //Toolbar will now take on default Action Bar characteristics
+            SetActionBar(toolbar);
+            //You can now use and reference the ActionBar
+            ActionBar.Title = "Brickventory";
             Button settings = FindViewById<Button>(Resource.Id.settings_button);
             settings.Click += Settings_Click;
             Button connect = FindViewById<Button>(Resource.Id.connect_button);

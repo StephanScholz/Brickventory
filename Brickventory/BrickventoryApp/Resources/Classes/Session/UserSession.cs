@@ -21,6 +21,11 @@ namespace Brickinventory.Classes.Session
         private static UserSession instance;
         public UserData userData { get; set; }
         private RequestUtility reqUtil;
+        private bool isLoggedIn = false;
+        public bool isUserLoggedIn()
+        {
+            return isLoggedIn;
+        }
 
         private UserSession()
         {
@@ -43,6 +48,7 @@ namespace Brickinventory.Classes.Session
             userData = JsonConvert.DeserializeObject<UserData>(reqUtil.Create_UserToken(username, password));
             if(userData != null && !userData.user_token.Equals(""))
             {
+                isLoggedIn = true;
                 return true;
             }
             return false;

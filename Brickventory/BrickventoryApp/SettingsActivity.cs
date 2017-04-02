@@ -25,6 +25,11 @@ namespace BrickventoryApp
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Settings);
+            var toolbar = FindViewById<Toolbar>(Resource.Id.toolbar2);
+            //Toolbar will now take on default Action Bar characteristics
+            SetActionBar(toolbar);
+            //You can now use and reference the ActionBar
+            ActionBar.Title = "Brickventory";
             Button save = FindViewById<Button>(Resource.Id.useThisApiKey_button);
             save.Click += Save_Click;
             api_input = FindViewById<EditText>(Resource.Id.apiInput);
@@ -34,7 +39,7 @@ namespace BrickventoryApp
         private void LoadApiKey()
         {
             ISharedPreferences prefs = PreferenceManager.GetDefaultSharedPreferences(this);
-            string key = prefs.GetString("apikey", "none");
+            string key = prefs.GetString("apikey","none");
             UserSession.GetInstance().SetApiKey(key);
             api_input.Text = key;
         }

@@ -25,6 +25,11 @@ namespace BrickventoryApp
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Login);
+            var toolbar = FindViewById<Toolbar>(Resource.Id.toolbar3);
+            //Toolbar will now take on default Action Bar characteristics
+            SetActionBar(toolbar);
+            //You can now use and reference the ActionBar
+            ActionBar.Title = "Brickventory";
             Button login = FindViewById<Button>(Resource.Id.login_button);
             login.Click += Login_Click;
         }

@@ -2168,8 +2168,8 @@ namespace BrickventoryApp
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0a008b
-			public const int action0 = 2131361931;
+			// aapt resource value: 0x7f0a008d
+			public const int action0 = 2131361933;
 			
 			// aapt resource value: 0x7f0a0064
 			public const int action_bar = 2131361892;
@@ -2192,17 +2192,17 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0041
 			public const int action_bar_title = 2131361857;
 			
-			// aapt resource value: 0x7f0a0088
-			public const int action_container = 2131361928;
+			// aapt resource value: 0x7f0a008a
+			public const int action_container = 2131361930;
 			
 			// aapt resource value: 0x7f0a0065
 			public const int action_context_bar = 2131361893;
 			
-			// aapt resource value: 0x7f0a008f
-			public const int action_divider = 2131361935;
+			// aapt resource value: 0x7f0a0091
+			public const int action_divider = 2131361937;
 			
-			// aapt resource value: 0x7f0a0089
-			public const int action_image = 2131361929;
+			// aapt resource value: 0x7f0a008b
+			public const int action_image = 2131361931;
 			
 			// aapt resource value: 0x7f0a0005
 			public const int action_menu_divider = 2131361797;
@@ -2219,11 +2219,11 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0043
 			public const int action_mode_close_button = 2131361859;
 			
-			// aapt resource value: 0x7f0a008a
-			public const int action_text = 2131361930;
+			// aapt resource value: 0x7f0a008c
+			public const int action_text = 2131361932;
 			
-			// aapt resource value: 0x7f0a0098
-			public const int actions = 2131361944;
+			// aapt resource value: 0x7f0a009a
+			public const int actions = 2131361946;
 			
 			// aapt resource value: 0x7f0a0044
 			public const int activity_chooser_view_content = 2131361860;
@@ -2240,8 +2240,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a003c
 			public const int always = 2131361852;
 			
-			// aapt resource value: 0x7f0a00a0
-			public const int apiInput = 2131361952;
+			// aapt resource value: 0x7f0a00a4
+			public const int apiInput = 2131361956;
 			
 			// aapt resource value: 0x7f0a0014
 			public const int auto = 2131361812;
@@ -2255,8 +2255,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a004b
 			public const int buttonPanel = 2131361867;
 			
-			// aapt resource value: 0x7f0a008c
-			public const int cancel_action = 2131361932;
+			// aapt resource value: 0x7f0a008e
+			public const int cancel_action = 2131361934;
 			
 			// aapt resource value: 0x7f0a0016
 			public const int center = 2131361814;
@@ -2270,8 +2270,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a005b
 			public const int checkbox = 2131361883;
 			
-			// aapt resource value: 0x7f0a0094
-			public const int chronometer = 2131361940;
+			// aapt resource value: 0x7f0a0096
+			public const int chronometer = 2131361942;
 			
 			// aapt resource value: 0x7f0a0022
 			public const int clip_horizontal = 2131361826;
@@ -2282,8 +2282,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a003d
 			public const int collapseActionView = 2131361853;
 			
-			// aapt resource value: 0x7f0a0086
-			public const int connect_button = 2131361926;
+			// aapt resource value: 0x7f0a0088
+			public const int connect_button = 2131361928;
 			
 			// aapt resource value: 0x7f0a004e
 			public const int contentPanel = 2131361870;
@@ -2318,8 +2318,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0032
 			public const int disableHome = 2131361842;
 			
-			// aapt resource value: 0x7f0a0085
-			public const int drawer_layout = 2131361925;
+			// aapt resource value: 0x7f0a0086
+			public const int drawer_layout = 2131361926;
 			
 			// aapt resource value: 0x7f0a0066
 			public const int edit_query = 2131361894;
@@ -2327,8 +2327,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0019
 			public const int end = 2131361817;
 			
-			// aapt resource value: 0x7f0a009e
-			public const int end_padder = 2131361950;
+			// aapt resource value: 0x7f0a00a0
+			public const int end_padder = 2131361952;
 			
 			// aapt resource value: 0x7f0a000f
 			public const int enterAlways = 2131361807;
@@ -2366,8 +2366,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0049
 			public const int icon = 2131361865;
 			
-			// aapt resource value: 0x7f0a0099
-			public const int icon_group = 2131361945;
+			// aapt resource value: 0x7f0a009b
+			public const int icon_group = 2131361947;
 			
 			// aapt resource value: 0x7f0a003e
 			public const int ifRoom = 2131361854;
@@ -2375,20 +2375,20 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0046
 			public const int image = 2131361862;
 			
-			// aapt resource value: 0x7f0a0095
-			public const int info = 2131361941;
+			// aapt resource value: 0x7f0a0097
+			public const int info = 2131361943;
 			
 			// aapt resource value: 0x7f0a000c
 			public const int item_touch_helper_previous_elevation = 2131361804;
 			
-			// aapt resource value: 0x7f0a007f
-			public const int label_header = 2131361919;
-			
-			// aapt resource value: 0x7f0a0082
-			public const int label_password = 2131361922;
-			
 			// aapt resource value: 0x7f0a0080
-			public const int label_username = 2131361920;
+			public const int label_header = 2131361920;
+			
+			// aapt resource value: 0x7f0a0083
+			public const int label_password = 2131361923;
+			
+			// aapt resource value: 0x7f0a0081
+			public const int label_username = 2131361921;
 			
 			// aapt resource value: 0x7f0a0074
 			public const int largeLabel = 2131361908;
@@ -2396,11 +2396,11 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a001b
 			public const int left = 2131361819;
 			
-			// aapt resource value: 0x7f0a009a
-			public const int line1 = 2131361946;
-			
 			// aapt resource value: 0x7f0a009c
-			public const int line3 = 2131361948;
+			public const int line1 = 2131361948;
+			
+			// aapt resource value: 0x7f0a009e
+			public const int line3 = 2131361950;
 			
 			// aapt resource value: 0x7f0a0030
 			public const int listMode = 2131361840;
@@ -2408,14 +2408,14 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0048
 			public const int list_item = 2131361864;
 			
-			// aapt resource value: 0x7f0a0084
-			public const int login_button = 2131361924;
+			// aapt resource value: 0x7f0a0085
+			public const int login_button = 2131361925;
 			
-			// aapt resource value: 0x7f0a00a3
-			public const int masked = 2131361955;
+			// aapt resource value: 0x7f0a00a7
+			public const int masked = 2131361959;
 			
-			// aapt resource value: 0x7f0a008e
-			public const int media_actions = 2131361934;
+			// aapt resource value: 0x7f0a0090
+			public const int media_actions = 2131361936;
 			
 			// aapt resource value: 0x7f0a003b
 			public const int middle = 2131361851;
@@ -2426,17 +2426,14 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a002b
 			public const int multiply = 2131361835;
 			
-			// aapt resource value: 0x7f0a00a7
-			public const int nav_FeedBack = 2131361959;
+			// aapt resource value: 0x7f0a00aa
+			public const int nav_about = 2131361962;
 			
-			// aapt resource value: 0x7f0a00a6
-			public const int nav_about = 2131361958;
+			// aapt resource value: 0x7f0a00a8
+			public const int nav_home = 2131361960;
 			
-			// aapt resource value: 0x7f0a00a4
-			public const int nav_home = 2131361956;
-			
-			// aapt resource value: 0x7f0a00a5
-			public const int nav_messages = 2131361957;
+			// aapt resource value: 0x7f0a00a9
+			public const int nav_messages = 2131361961;
 			
 			// aapt resource value: 0x7f0a0079
 			public const int navigation_header_container = 2131361913;
@@ -2450,14 +2447,14 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0028
 			public const int normal = 2131361832;
 			
-			// aapt resource value: 0x7f0a0097
-			public const int notification_background = 2131361943;
+			// aapt resource value: 0x7f0a0099
+			public const int notification_background = 2131361945;
 			
-			// aapt resource value: 0x7f0a0091
-			public const int notification_main_column = 2131361937;
+			// aapt resource value: 0x7f0a0093
+			public const int notification_main_column = 2131361939;
 			
-			// aapt resource value: 0x7f0a0090
-			public const int notification_main_column_container = 2131361936;
+			// aapt resource value: 0x7f0a0092
+			public const int notification_main_column_container = 2131361938;
 			
 			// aapt resource value: 0x7f0a0020
 			public const int parallax = 2131361824;
@@ -2480,11 +2477,11 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a001c
 			public const int right = 2131361820;
 			
-			// aapt resource value: 0x7f0a0096
-			public const int right_icon = 2131361942;
+			// aapt resource value: 0x7f0a0098
+			public const int right_icon = 2131361944;
 			
-			// aapt resource value: 0x7f0a0092
-			public const int right_side = 2131361938;
+			// aapt resource value: 0x7f0a0094
+			public const int right_side = 2131361940;
 			
 			// aapt resource value: 0x7f0a002c
 			public const int screen = 2131361836;
@@ -2537,8 +2534,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0072
 			public const int select_dialog_listview = 2131361906;
 			
-			// aapt resource value: 0x7f0a0087
-			public const int settings_button = 2131361927;
+			// aapt resource value: 0x7f0a0089
+			public const int settings_button = 2131361929;
 			
 			// aapt resource value: 0x7f0a005c
 			public const int shortcut = 2131361884;
@@ -2582,8 +2579,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a001d
 			public const int start = 2131361821;
 			
-			// aapt resource value: 0x7f0a008d
-			public const int status_bar_latest_event_content = 2131361933;
+			// aapt resource value: 0x7f0a008f
+			public const int status_bar_latest_event_content = 2131361935;
 			
 			// aapt resource value: 0x7f0a005e
 			public const int submenuarrow = 2131361886;
@@ -2594,11 +2591,11 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0031
 			public const int tabMode = 2131361841;
 			
-			// aapt resource value: 0x7f0a009d
-			public const int text = 2131361949;
+			// aapt resource value: 0x7f0a009f
+			public const int text = 2131361951;
 			
-			// aapt resource value: 0x7f0a009b
-			public const int text2 = 2131361947;
+			// aapt resource value: 0x7f0a009d
+			public const int text2 = 2131361949;
 			
 			// aapt resource value: 0x7f0a0052
 			public const int textSpacerNoButtons = 2131361874;
@@ -2606,8 +2603,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0051
 			public const int textSpacerNoTitle = 2131361873;
 			
-			// aapt resource value: 0x7f0a009f
-			public const int textView1 = 2131361951;
+			// aapt resource value: 0x7f0a00a3
+			public const int textView1 = 2131361955;
 			
 			// aapt resource value: 0x7f0a007e
 			public const int text_input_password_toggle = 2131361918;
@@ -2618,14 +2615,14 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0001
 			public const int textinput_error = 2131361793;
 			
-			// aapt resource value: 0x7f0a0083
-			public const int tf_password = 2131361923;
+			// aapt resource value: 0x7f0a0084
+			public const int tf_password = 2131361924;
 			
-			// aapt resource value: 0x7f0a0081
-			public const int tf_username = 2131361921;
+			// aapt resource value: 0x7f0a0082
+			public const int tf_username = 2131361922;
 			
-			// aapt resource value: 0x7f0a0093
-			public const int time = 2131361939;
+			// aapt resource value: 0x7f0a0095
+			public const int time = 2131361941;
 			
 			// aapt resource value: 0x7f0a004a
 			public const int title = 2131361866;
@@ -2635,6 +2632,18 @@ namespace BrickventoryApp
 			
 			// aapt resource value: 0x7f0a0057
 			public const int title_template = 2131361879;
+			
+			// aapt resource value: 0x7f0a0087
+			public const int toolbar1 = 2131361927;
+			
+			// aapt resource value: 0x7f0a00a2
+			public const int toolbar2 = 2131361954;
+			
+			// aapt resource value: 0x7f0a007f
+			public const int toolbar3 = 2131361919;
+			
+			// aapt resource value: 0x7f0a00a1
+			public const int toolbar4 = 2131361953;
 			
 			// aapt resource value: 0x7f0a001e
 			public const int top = 2131361822;
@@ -2657,14 +2666,14 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0a0037
 			public const int useLogo = 2131361847;
 			
-			// aapt resource value: 0x7f0a00a1
-			public const int useThisApiKey_button = 2131361953;
+			// aapt resource value: 0x7f0a00a5
+			public const int useThisApiKey_button = 2131361957;
 			
 			// aapt resource value: 0x7f0a0002
 			public const int view_offset_helper = 2131361794;
 			
-			// aapt resource value: 0x7f0a00a2
-			public const int visible = 2131361954;
+			// aapt resource value: 0x7f0a00a6
+			public const int visible = 2131361958;
 			
 			// aapt resource value: 0x7f0a0040
 			public const int withText = 2131361856;
@@ -3100,38 +3109,38 @@ namespace BrickventoryApp
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7f0600ba
-			public const int AlertDialog_AppCompat = 2131099834;
+			// aapt resource value: 0x7f0600b6
+			public const int AlertDialog_AppCompat = 2131099830;
 			
-			// aapt resource value: 0x7f0600bb
-			public const int AlertDialog_AppCompat_Light = 2131099835;
+			// aapt resource value: 0x7f0600b7
+			public const int AlertDialog_AppCompat_Light = 2131099831;
 			
-			// aapt resource value: 0x7f0600bc
-			public const int Animation_AppCompat_Dialog = 2131099836;
+			// aapt resource value: 0x7f0600b8
+			public const int Animation_AppCompat_Dialog = 2131099832;
 			
-			// aapt resource value: 0x7f0600bd
-			public const int Animation_AppCompat_DropDownUp = 2131099837;
+			// aapt resource value: 0x7f0600b9
+			public const int Animation_AppCompat_DropDownUp = 2131099833;
 			
 			// aapt resource value: 0x7f060002
 			public const int Animation_Design_BottomSheetDialog = 2131099650;
 			
+			// aapt resource value: 0x7f0600ba
+			public const int Base_AlertDialog_AppCompat = 2131099834;
+			
+			// aapt resource value: 0x7f0600bb
+			public const int Base_AlertDialog_AppCompat_Light = 2131099835;
+			
+			// aapt resource value: 0x7f0600bc
+			public const int Base_Animation_AppCompat_Dialog = 2131099836;
+			
+			// aapt resource value: 0x7f0600bd
+			public const int Base_Animation_AppCompat_DropDownUp = 2131099837;
+			
 			// aapt resource value: 0x7f0600be
-			public const int Base_AlertDialog_AppCompat = 2131099838;
+			public const int Base_DialogWindowTitle_AppCompat = 2131099838;
 			
 			// aapt resource value: 0x7f0600bf
-			public const int Base_AlertDialog_AppCompat_Light = 2131099839;
-			
-			// aapt resource value: 0x7f0600c0
-			public const int Base_Animation_AppCompat_Dialog = 2131099840;
-			
-			// aapt resource value: 0x7f0600c1
-			public const int Base_Animation_AppCompat_DropDownUp = 2131099841;
-			
-			// aapt resource value: 0x7f0600c2
-			public const int Base_DialogWindowTitle_AppCompat = 2131099842;
-			
-			// aapt resource value: 0x7f0600c3
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131099843;
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131099839;
 			
 			// aapt resource value: 0x7f06005a
 			public const int Base_TextAppearance_AppCompat = 2131099738;
@@ -3187,8 +3196,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060067
 			public const int Base_TextAppearance_AppCompat_Menu = 2131099751;
 			
-			// aapt resource value: 0x7f0600c4
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2131099844;
+			// aapt resource value: 0x7f0600c0
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2131099840;
 			
 			// aapt resource value: 0x7f060068
 			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131099752;
@@ -3238,17 +3247,17 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060073
 			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131099763;
 			
-			// aapt resource value: 0x7f0600b6
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131099830;
+			// aapt resource value: 0x7f0600c1
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131099841;
 			
-			// aapt resource value: 0x7f0600b7
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131099831;
+			// aapt resource value: 0x7f0600c2
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131099842;
 			
 			// aapt resource value: 0x7f0600b0
 			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131099824;
 			
-			// aapt resource value: 0x7f0600c5
-			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131099845;
+			// aapt resource value: 0x7f0600c3
+			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131099843;
 			
 			// aapt resource value: 0x7f060074
 			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131099764;
@@ -3265,8 +3274,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060078
 			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131099768;
 			
-			// aapt resource value: 0x7f0600c6
-			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131099846;
+			// aapt resource value: 0x7f0600c4
+			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131099844;
 			
 			// aapt resource value: 0x7f060079
 			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131099769;
@@ -3277,8 +3286,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06007b
 			public const int Base_Theme_AppCompat = 2131099771;
 			
-			// aapt resource value: 0x7f0600c7
-			public const int Base_Theme_AppCompat_CompactMenu = 2131099847;
+			// aapt resource value: 0x7f0600c5
+			public const int Base_Theme_AppCompat_CompactMenu = 2131099845;
 			
 			// aapt resource value: 0x7f06002c
 			public const int Base_Theme_AppCompat_Dialog = 2131099692;
@@ -3286,8 +3295,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06002d
 			public const int Base_Theme_AppCompat_Dialog_Alert = 2131099693;
 			
-			// aapt resource value: 0x7f0600c8
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131099848;
+			// aapt resource value: 0x7f0600c6
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131099846;
 			
 			// aapt resource value: 0x7f06002e
 			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131099694;
@@ -3298,8 +3307,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06007c
 			public const int Base_Theme_AppCompat_Light = 2131099772;
 			
-			// aapt resource value: 0x7f0600c9
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131099849;
+			// aapt resource value: 0x7f0600c7
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131099847;
 			
 			// aapt resource value: 0x7f06002f
 			public const int Base_Theme_AppCompat_Light_Dialog = 2131099695;
@@ -3307,8 +3316,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060030
 			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131099696;
 			
-			// aapt resource value: 0x7f0600ca
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131099850;
+			// aapt resource value: 0x7f0600c8
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131099848;
 			
 			// aapt resource value: 0x7f060031
 			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131099697;
@@ -3316,17 +3325,17 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06001d
 			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131099677;
 			
+			// aapt resource value: 0x7f0600c9
+			public const int Base_ThemeOverlay_AppCompat = 2131099849;
+			
+			// aapt resource value: 0x7f0600ca
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131099850;
+			
 			// aapt resource value: 0x7f0600cb
-			public const int Base_ThemeOverlay_AppCompat = 2131099851;
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2131099851;
 			
 			// aapt resource value: 0x7f0600cc
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131099852;
-			
-			// aapt resource value: 0x7f0600cd
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2131099853;
-			
-			// aapt resource value: 0x7f0600ce
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131099854;
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131099852;
 			
 			// aapt resource value: 0x7f060032
 			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131099698;
@@ -3334,8 +3343,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060033
 			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131099699;
 			
-			// aapt resource value: 0x7f0600cf
-			public const int Base_ThemeOverlay_AppCompat_Light = 2131099855;
+			// aapt resource value: 0x7f0600cd
+			public const int Base_ThemeOverlay_AppCompat_Light = 2131099853;
 			
 			// aapt resource value: 0x7f060034
 			public const int Base_V11_Theme_AppCompat_Dialog = 2131099700;
@@ -3379,35 +3388,35 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0600b2
 			public const int Base_V23_Theme_AppCompat_Light = 2131099826;
 			
+			// aapt resource value: 0x7f0600ce
+			public const int Base_V7_Theme_AppCompat = 2131099854;
+			
+			// aapt resource value: 0x7f0600cf
+			public const int Base_V7_Theme_AppCompat_Dialog = 2131099855;
+			
 			// aapt resource value: 0x7f0600d0
-			public const int Base_V7_Theme_AppCompat = 2131099856;
+			public const int Base_V7_Theme_AppCompat_Light = 2131099856;
 			
 			// aapt resource value: 0x7f0600d1
-			public const int Base_V7_Theme_AppCompat_Dialog = 2131099857;
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131099857;
 			
 			// aapt resource value: 0x7f0600d2
-			public const int Base_V7_Theme_AppCompat_Light = 2131099858;
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131099858;
 			
 			// aapt resource value: 0x7f0600d3
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131099859;
+			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131099859;
 			
 			// aapt resource value: 0x7f0600d4
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131099860;
+			public const int Base_V7_Widget_AppCompat_EditText = 2131099860;
 			
 			// aapt resource value: 0x7f0600d5
-			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131099861;
+			public const int Base_Widget_AppCompat_ActionBar = 2131099861;
 			
 			// aapt resource value: 0x7f0600d6
-			public const int Base_V7_Widget_AppCompat_EditText = 2131099862;
+			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131099862;
 			
 			// aapt resource value: 0x7f0600d7
-			public const int Base_Widget_AppCompat_ActionBar = 2131099863;
-			
-			// aapt resource value: 0x7f0600d8
-			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131099864;
-			
-			// aapt resource value: 0x7f0600d9
-			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131099865;
+			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131099863;
 			
 			// aapt resource value: 0x7f060082
 			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131099778;
@@ -3424,11 +3433,11 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060086
 			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131099782;
 			
-			// aapt resource value: 0x7f0600da
-			public const int Base_Widget_AppCompat_ActionMode = 2131099866;
+			// aapt resource value: 0x7f0600d8
+			public const int Base_Widget_AppCompat_ActionMode = 2131099864;
 			
-			// aapt resource value: 0x7f0600db
-			public const int Base_Widget_AppCompat_ActivityChooserView = 2131099867;
+			// aapt resource value: 0x7f0600d9
+			public const int Base_Widget_AppCompat_ActivityChooserView = 2131099865;
 			
 			// aapt resource value: 0x7f060040
 			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131099712;
@@ -3442,8 +3451,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060089
 			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131099785;
 			
-			// aapt resource value: 0x7f0600dc
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131099868;
+			// aapt resource value: 0x7f0600da
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131099866;
 			
 			// aapt resource value: 0x7f0600b3
 			public const int Base_Widget_AppCompat_Button_Colored = 2131099827;
@@ -3454,8 +3463,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06008b
 			public const int Base_Widget_AppCompat_ButtonBar = 2131099787;
 			
-			// aapt resource value: 0x7f0600dd
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131099869;
+			// aapt resource value: 0x7f0600db
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131099867;
 			
 			// aapt resource value: 0x7f06008c
 			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131099788;
@@ -3463,14 +3472,14 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06008d
 			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131099789;
 			
-			// aapt resource value: 0x7f0600de
-			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131099870;
+			// aapt resource value: 0x7f0600dc
+			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131099868;
 			
 			// aapt resource value: 0x7f06001b
 			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131099675;
 			
-			// aapt resource value: 0x7f0600df
-			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131099871;
+			// aapt resource value: 0x7f0600dd
+			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131099869;
 			
 			// aapt resource value: 0x7f06008e
 			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131099790;
@@ -3481,14 +3490,14 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06008f
 			public const int Base_Widget_AppCompat_ImageButton = 2131099791;
 			
+			// aapt resource value: 0x7f0600de
+			public const int Base_Widget_AppCompat_Light_ActionBar = 2131099870;
+			
+			// aapt resource value: 0x7f0600df
+			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131099871;
+			
 			// aapt resource value: 0x7f0600e0
-			public const int Base_Widget_AppCompat_Light_ActionBar = 2131099872;
-			
-			// aapt resource value: 0x7f0600e1
-			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131099873;
-			
-			// aapt resource value: 0x7f0600e2
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131099874;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131099872;
 			
 			// aapt resource value: 0x7f060090
 			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131099792;
@@ -3505,8 +3514,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060094
 			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131099796;
 			
-			// aapt resource value: 0x7f0600e3
-			public const int Base_Widget_AppCompat_ListMenuView = 2131099875;
+			// aapt resource value: 0x7f0600e1
+			public const int Base_Widget_AppCompat_ListMenuView = 2131099873;
 			
 			// aapt resource value: 0x7f060095
 			public const int Base_Widget_AppCompat_ListPopupWindow = 2131099797;
@@ -3526,8 +3535,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06009a
 			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131099802;
 			
-			// aapt resource value: 0x7f0600e4
-			public const int Base_Widget_AppCompat_PopupWindow = 2131099876;
+			// aapt resource value: 0x7f0600e2
+			public const int Base_Widget_AppCompat_PopupWindow = 2131099874;
 			
 			// aapt resource value: 0x7f060037
 			public const int Base_Widget_AppCompat_ProgressBar = 2131099703;
@@ -3544,17 +3553,17 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0600b5
 			public const int Base_Widget_AppCompat_RatingBar_Small = 2131099829;
 			
-			// aapt resource value: 0x7f0600e5
-			public const int Base_Widget_AppCompat_SearchView = 2131099877;
+			// aapt resource value: 0x7f0600e3
+			public const int Base_Widget_AppCompat_SearchView = 2131099875;
 			
-			// aapt resource value: 0x7f0600e6
-			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131099878;
+			// aapt resource value: 0x7f0600e4
+			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131099876;
 			
 			// aapt resource value: 0x7f06009c
 			public const int Base_Widget_AppCompat_SeekBar = 2131099804;
 			
-			// aapt resource value: 0x7f0600e7
-			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131099879;
+			// aapt resource value: 0x7f0600e5
+			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131099877;
 			
 			// aapt resource value: 0x7f06009d
 			public const int Base_Widget_AppCompat_Spinner = 2131099805;
@@ -3565,8 +3574,8 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06009e
 			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131099806;
 			
-			// aapt resource value: 0x7f0600e8
-			public const int Base_Widget_AppCompat_Toolbar = 2131099880;
+			// aapt resource value: 0x7f0600e6
+			public const int Base_Widget_AppCompat_Toolbar = 2131099878;
 			
 			// aapt resource value: 0x7f06009f
 			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131099807;
@@ -3576,6 +3585,9 @@ namespace BrickventoryApp
 			
 			// aapt resource value: 0x7f060004
 			public const int Base_Widget_Design_TabLayout = 2131099652;
+			
+			// aapt resource value: 0x7f060178
+			public const int MyTheme = 2131100024;
 			
 			// aapt resource value: 0x7f060039
 			public const int Platform_AppCompat = 2131099705;
@@ -3609,12 +3621,6 @@ namespace BrickventoryApp
 			
 			// aapt resource value: 0x7f0600a4
 			public const int Platform_V21_AppCompat_Light = 2131099812;
-			
-			// aapt resource value: 0x7f0600b8
-			public const int Platform_V25_AppCompat = 2131099832;
-			
-			// aapt resource value: 0x7f0600b9
-			public const int Platform_V25_AppCompat_Light = 2131099833;
 			
 			// aapt resource value: 0x7f06003d
 			public const int Platform_Widget_AppCompat_Spinner = 2131099709;
@@ -3661,65 +3667,65 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060059
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131099737;
 			
+			// aapt resource value: 0x7f0600e7
+			public const int TextAppearance_AppCompat = 2131099879;
+			
+			// aapt resource value: 0x7f0600e8
+			public const int TextAppearance_AppCompat_Body1 = 2131099880;
+			
 			// aapt resource value: 0x7f0600e9
-			public const int TextAppearance_AppCompat = 2131099881;
+			public const int TextAppearance_AppCompat_Body2 = 2131099881;
 			
 			// aapt resource value: 0x7f0600ea
-			public const int TextAppearance_AppCompat_Body1 = 2131099882;
+			public const int TextAppearance_AppCompat_Button = 2131099882;
 			
 			// aapt resource value: 0x7f0600eb
-			public const int TextAppearance_AppCompat_Body2 = 2131099883;
+			public const int TextAppearance_AppCompat_Caption = 2131099883;
 			
 			// aapt resource value: 0x7f0600ec
-			public const int TextAppearance_AppCompat_Button = 2131099884;
+			public const int TextAppearance_AppCompat_Display1 = 2131099884;
 			
 			// aapt resource value: 0x7f0600ed
-			public const int TextAppearance_AppCompat_Caption = 2131099885;
+			public const int TextAppearance_AppCompat_Display2 = 2131099885;
 			
 			// aapt resource value: 0x7f0600ee
-			public const int TextAppearance_AppCompat_Display1 = 2131099886;
+			public const int TextAppearance_AppCompat_Display3 = 2131099886;
 			
 			// aapt resource value: 0x7f0600ef
-			public const int TextAppearance_AppCompat_Display2 = 2131099887;
+			public const int TextAppearance_AppCompat_Display4 = 2131099887;
 			
 			// aapt resource value: 0x7f0600f0
-			public const int TextAppearance_AppCompat_Display3 = 2131099888;
+			public const int TextAppearance_AppCompat_Headline = 2131099888;
 			
 			// aapt resource value: 0x7f0600f1
-			public const int TextAppearance_AppCompat_Display4 = 2131099889;
+			public const int TextAppearance_AppCompat_Inverse = 2131099889;
 			
 			// aapt resource value: 0x7f0600f2
-			public const int TextAppearance_AppCompat_Headline = 2131099890;
+			public const int TextAppearance_AppCompat_Large = 2131099890;
 			
 			// aapt resource value: 0x7f0600f3
-			public const int TextAppearance_AppCompat_Inverse = 2131099891;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131099891;
 			
 			// aapt resource value: 0x7f0600f4
-			public const int TextAppearance_AppCompat_Large = 2131099892;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131099892;
 			
 			// aapt resource value: 0x7f0600f5
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131099893;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131099893;
 			
 			// aapt resource value: 0x7f0600f6
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131099894;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131099894;
 			
 			// aapt resource value: 0x7f0600f7
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131099895;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131099895;
 			
 			// aapt resource value: 0x7f0600f8
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131099896;
+			public const int TextAppearance_AppCompat_Medium = 2131099896;
 			
 			// aapt resource value: 0x7f0600f9
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131099897;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131099897;
 			
 			// aapt resource value: 0x7f0600fa
-			public const int TextAppearance_AppCompat_Medium = 2131099898;
-			
-			// aapt resource value: 0x7f0600fb
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131099899;
-			
-			// aapt resource value: 0x7f0600fc
-			public const int TextAppearance_AppCompat_Menu = 2131099900;
+			public const int TextAppearance_AppCompat_Menu = 2131099898;
 			
 			// aapt resource value: 0x7f060045
 			public const int TextAppearance_AppCompat_Notification = 2131099717;
@@ -3730,11 +3736,11 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0600a6
 			public const int TextAppearance_AppCompat_Notification_Info_Media = 2131099814;
 			
-			// aapt resource value: 0x7f0600fd
-			public const int TextAppearance_AppCompat_Notification_Line2 = 2131099901;
+			// aapt resource value: 0x7f0600fb
+			public const int TextAppearance_AppCompat_Notification_Line2 = 2131099899;
 			
-			// aapt resource value: 0x7f0600fe
-			public const int TextAppearance_AppCompat_Notification_Line2_Media = 2131099902;
+			// aapt resource value: 0x7f0600fc
+			public const int TextAppearance_AppCompat_Notification_Line2_Media = 2131099900;
 			
 			// aapt resource value: 0x7f0600a7
 			public const int TextAppearance_AppCompat_Notification_Media = 2131099815;
@@ -3751,86 +3757,86 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0600aa
 			public const int TextAppearance_AppCompat_Notification_Title_Media = 2131099818;
 			
+			// aapt resource value: 0x7f0600fd
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131099901;
+			
+			// aapt resource value: 0x7f0600fe
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131099902;
+			
 			// aapt resource value: 0x7f0600ff
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131099903;
+			public const int TextAppearance_AppCompat_Small = 2131099903;
 			
 			// aapt resource value: 0x7f060100
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131099904;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131099904;
 			
 			// aapt resource value: 0x7f060101
-			public const int TextAppearance_AppCompat_Small = 2131099905;
+			public const int TextAppearance_AppCompat_Subhead = 2131099905;
 			
 			// aapt resource value: 0x7f060102
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131099906;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131099906;
 			
 			// aapt resource value: 0x7f060103
-			public const int TextAppearance_AppCompat_Subhead = 2131099907;
+			public const int TextAppearance_AppCompat_Title = 2131099907;
 			
 			// aapt resource value: 0x7f060104
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131099908;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131099908;
 			
 			// aapt resource value: 0x7f060105
-			public const int TextAppearance_AppCompat_Title = 2131099909;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131099909;
 			
 			// aapt resource value: 0x7f060106
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131099910;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131099910;
 			
 			// aapt resource value: 0x7f060107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131099911;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131099911;
 			
 			// aapt resource value: 0x7f060108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131099912;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131099912;
 			
 			// aapt resource value: 0x7f060109
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131099913;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131099913;
 			
 			// aapt resource value: 0x7f06010a
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131099914;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131099914;
 			
 			// aapt resource value: 0x7f06010b
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131099915;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131099915;
 			
 			// aapt resource value: 0x7f06010c
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131099916;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131099916;
 			
 			// aapt resource value: 0x7f06010d
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131099917;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131099917;
 			
 			// aapt resource value: 0x7f06010e
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131099918;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131099918;
 			
 			// aapt resource value: 0x7f06010f
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131099919;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131099919;
 			
 			// aapt resource value: 0x7f060110
-			public const int TextAppearance_AppCompat_Widget_Button = 2131099920;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131099920;
 			
 			// aapt resource value: 0x7f060111
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131099921;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131099921;
 			
 			// aapt resource value: 0x7f060112
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131099922;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131099922;
 			
 			// aapt resource value: 0x7f060113
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131099923;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131099923;
 			
 			// aapt resource value: 0x7f060114
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131099924;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131099924;
 			
 			// aapt resource value: 0x7f060115
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131099925;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131099925;
 			
 			// aapt resource value: 0x7f060116
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131099926;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131099926;
 			
 			// aapt resource value: 0x7f060117
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131099927;
-			
-			// aapt resource value: 0x7f060118
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131099928;
-			
-			// aapt resource value: 0x7f060119
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131099929;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131099927;
 			
 			// aapt resource value: 0x7f060005
 			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131099653;
@@ -3868,20 +3874,20 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f06004b
 			public const int TextAppearance_StatusBar_EventContent_Title = 2131099723;
 			
+			// aapt resource value: 0x7f060118
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131099928;
+			
+			// aapt resource value: 0x7f060119
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131099929;
+			
 			// aapt resource value: 0x7f06011a
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131099930;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131099930;
 			
 			// aapt resource value: 0x7f06011b
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131099931;
+			public const int Theme_AppCompat = 2131099931;
 			
 			// aapt resource value: 0x7f06011c
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131099932;
-			
-			// aapt resource value: 0x7f06011d
-			public const int Theme_AppCompat = 2131099933;
-			
-			// aapt resource value: 0x7f06011e
-			public const int Theme_AppCompat_CompactMenu = 2131099934;
+			public const int Theme_AppCompat_CompactMenu = 2131099932;
 			
 			// aapt resource value: 0x7f06001f
 			public const int Theme_AppCompat_DayNight = 2131099679;
@@ -3904,41 +3910,41 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060025
 			public const int Theme_AppCompat_DayNight_NoActionBar = 2131099685;
 			
+			// aapt resource value: 0x7f06011d
+			public const int Theme_AppCompat_Dialog = 2131099933;
+			
+			// aapt resource value: 0x7f06011e
+			public const int Theme_AppCompat_Dialog_Alert = 2131099934;
+			
 			// aapt resource value: 0x7f06011f
-			public const int Theme_AppCompat_Dialog = 2131099935;
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131099935;
 			
 			// aapt resource value: 0x7f060120
-			public const int Theme_AppCompat_Dialog_Alert = 2131099936;
+			public const int Theme_AppCompat_DialogWhenLarge = 2131099936;
 			
 			// aapt resource value: 0x7f060121
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131099937;
+			public const int Theme_AppCompat_Light = 2131099937;
 			
 			// aapt resource value: 0x7f060122
-			public const int Theme_AppCompat_DialogWhenLarge = 2131099938;
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131099938;
 			
 			// aapt resource value: 0x7f060123
-			public const int Theme_AppCompat_Light = 2131099939;
+			public const int Theme_AppCompat_Light_Dialog = 2131099939;
 			
 			// aapt resource value: 0x7f060124
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131099940;
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131099940;
 			
 			// aapt resource value: 0x7f060125
-			public const int Theme_AppCompat_Light_Dialog = 2131099941;
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131099941;
 			
 			// aapt resource value: 0x7f060126
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131099942;
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131099942;
 			
 			// aapt resource value: 0x7f060127
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131099943;
+			public const int Theme_AppCompat_Light_NoActionBar = 2131099943;
 			
 			// aapt resource value: 0x7f060128
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131099944;
-			
-			// aapt resource value: 0x7f060129
-			public const int Theme_AppCompat_Light_NoActionBar = 2131099945;
-			
-			// aapt resource value: 0x7f06012a
-			public const int Theme_AppCompat_NoActionBar = 2131099946;
+			public const int Theme_AppCompat_NoActionBar = 2131099944;
 			
 			// aapt resource value: 0x7f06000c
 			public const int Theme_Design = 2131099660;
@@ -3958,185 +3964,185 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f060011
 			public const int Theme_Design_NoActionBar = 2131099665;
 			
+			// aapt resource value: 0x7f060129
+			public const int ThemeOverlay_AppCompat = 2131099945;
+			
+			// aapt resource value: 0x7f06012a
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131099946;
+			
 			// aapt resource value: 0x7f06012b
-			public const int ThemeOverlay_AppCompat = 2131099947;
+			public const int ThemeOverlay_AppCompat_Dark = 2131099947;
 			
 			// aapt resource value: 0x7f06012c
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131099948;
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131099948;
 			
 			// aapt resource value: 0x7f06012d
-			public const int ThemeOverlay_AppCompat_Dark = 2131099949;
+			public const int ThemeOverlay_AppCompat_Dialog = 2131099949;
 			
 			// aapt resource value: 0x7f06012e
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131099950;
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131099950;
 			
 			// aapt resource value: 0x7f06012f
-			public const int ThemeOverlay_AppCompat_Dialog = 2131099951;
+			public const int ThemeOverlay_AppCompat_Light = 2131099951;
 			
 			// aapt resource value: 0x7f060130
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131099952;
+			public const int Widget_AppCompat_ActionBar = 2131099952;
 			
 			// aapt resource value: 0x7f060131
-			public const int ThemeOverlay_AppCompat_Light = 2131099953;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131099953;
 			
 			// aapt resource value: 0x7f060132
-			public const int Widget_AppCompat_ActionBar = 2131099954;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131099954;
 			
 			// aapt resource value: 0x7f060133
-			public const int Widget_AppCompat_ActionBar_Solid = 2131099955;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131099955;
 			
 			// aapt resource value: 0x7f060134
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131099956;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131099956;
 			
 			// aapt resource value: 0x7f060135
-			public const int Widget_AppCompat_ActionBar_TabText = 2131099957;
+			public const int Widget_AppCompat_ActionButton = 2131099957;
 			
 			// aapt resource value: 0x7f060136
-			public const int Widget_AppCompat_ActionBar_TabView = 2131099958;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131099958;
 			
 			// aapt resource value: 0x7f060137
-			public const int Widget_AppCompat_ActionButton = 2131099959;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131099959;
 			
 			// aapt resource value: 0x7f060138
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131099960;
+			public const int Widget_AppCompat_ActionMode = 2131099960;
 			
 			// aapt resource value: 0x7f060139
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131099961;
+			public const int Widget_AppCompat_ActivityChooserView = 2131099961;
 			
 			// aapt resource value: 0x7f06013a
-			public const int Widget_AppCompat_ActionMode = 2131099962;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131099962;
 			
 			// aapt resource value: 0x7f06013b
-			public const int Widget_AppCompat_ActivityChooserView = 2131099963;
+			public const int Widget_AppCompat_Button = 2131099963;
 			
 			// aapt resource value: 0x7f06013c
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131099964;
+			public const int Widget_AppCompat_Button_Borderless = 2131099964;
 			
 			// aapt resource value: 0x7f06013d
-			public const int Widget_AppCompat_Button = 2131099965;
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131099965;
 			
 			// aapt resource value: 0x7f06013e
-			public const int Widget_AppCompat_Button_Borderless = 2131099966;
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131099966;
 			
 			// aapt resource value: 0x7f06013f
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131099967;
+			public const int Widget_AppCompat_Button_Colored = 2131099967;
 			
 			// aapt resource value: 0x7f060140
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131099968;
+			public const int Widget_AppCompat_Button_Small = 2131099968;
 			
 			// aapt resource value: 0x7f060141
-			public const int Widget_AppCompat_Button_Colored = 2131099969;
+			public const int Widget_AppCompat_ButtonBar = 2131099969;
 			
 			// aapt resource value: 0x7f060142
-			public const int Widget_AppCompat_Button_Small = 2131099970;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131099970;
 			
 			// aapt resource value: 0x7f060143
-			public const int Widget_AppCompat_ButtonBar = 2131099971;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131099971;
 			
 			// aapt resource value: 0x7f060144
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131099972;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131099972;
 			
 			// aapt resource value: 0x7f060145
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131099973;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131099973;
 			
 			// aapt resource value: 0x7f060146
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131099974;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131099974;
 			
 			// aapt resource value: 0x7f060147
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131099975;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131099975;
 			
 			// aapt resource value: 0x7f060148
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131099976;
+			public const int Widget_AppCompat_EditText = 2131099976;
 			
 			// aapt resource value: 0x7f060149
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131099977;
+			public const int Widget_AppCompat_ImageButton = 2131099977;
 			
 			// aapt resource value: 0x7f06014a
-			public const int Widget_AppCompat_EditText = 2131099978;
+			public const int Widget_AppCompat_Light_ActionBar = 2131099978;
 			
 			// aapt resource value: 0x7f06014b
-			public const int Widget_AppCompat_ImageButton = 2131099979;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131099979;
 			
 			// aapt resource value: 0x7f06014c
-			public const int Widget_AppCompat_Light_ActionBar = 2131099980;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131099980;
 			
 			// aapt resource value: 0x7f06014d
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131099981;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131099981;
 			
 			// aapt resource value: 0x7f06014e
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131099982;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131099982;
 			
 			// aapt resource value: 0x7f06014f
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131099983;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131099983;
 			
 			// aapt resource value: 0x7f060150
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131099984;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131099984;
 			
 			// aapt resource value: 0x7f060151
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131099985;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131099985;
 			
 			// aapt resource value: 0x7f060152
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131099986;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131099986;
 			
 			// aapt resource value: 0x7f060153
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131099987;
+			public const int Widget_AppCompat_Light_ActionButton = 2131099987;
 			
 			// aapt resource value: 0x7f060154
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131099988;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131099988;
 			
 			// aapt resource value: 0x7f060155
-			public const int Widget_AppCompat_Light_ActionButton = 2131099989;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131099989;
 			
 			// aapt resource value: 0x7f060156
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131099990;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131099990;
 			
 			// aapt resource value: 0x7f060157
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131099991;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131099991;
 			
 			// aapt resource value: 0x7f060158
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131099992;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131099992;
 			
 			// aapt resource value: 0x7f060159
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131099993;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131099993;
 			
 			// aapt resource value: 0x7f06015a
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131099994;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131099994;
 			
 			// aapt resource value: 0x7f06015b
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131099995;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131099995;
 			
 			// aapt resource value: 0x7f06015c
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131099996;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131099996;
 			
 			// aapt resource value: 0x7f06015d
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131099997;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131099997;
 			
 			// aapt resource value: 0x7f06015e
-			public const int Widget_AppCompat_Light_PopupMenu = 2131099998;
+			public const int Widget_AppCompat_Light_SearchView = 2131099998;
 			
 			// aapt resource value: 0x7f06015f
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131099999;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131099999;
 			
 			// aapt resource value: 0x7f060160
-			public const int Widget_AppCompat_Light_SearchView = 2131100000;
+			public const int Widget_AppCompat_ListMenuView = 2131100000;
 			
 			// aapt resource value: 0x7f060161
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131100001;
+			public const int Widget_AppCompat_ListPopupWindow = 2131100001;
 			
 			// aapt resource value: 0x7f060162
-			public const int Widget_AppCompat_ListMenuView = 2131100002;
+			public const int Widget_AppCompat_ListView = 2131100002;
 			
 			// aapt resource value: 0x7f060163
-			public const int Widget_AppCompat_ListPopupWindow = 2131100003;
+			public const int Widget_AppCompat_ListView_DropDown = 2131100003;
 			
 			// aapt resource value: 0x7f060164
-			public const int Widget_AppCompat_ListView = 2131100004;
-			
-			// aapt resource value: 0x7f060165
-			public const int Widget_AppCompat_ListView_DropDown = 2131100005;
-			
-			// aapt resource value: 0x7f060166
-			public const int Widget_AppCompat_ListView_Menu = 2131100006;
+			public const int Widget_AppCompat_ListView_Menu = 2131100004;
 			
 			// aapt resource value: 0x7f0600ab
 			public const int Widget_AppCompat_NotificationActionContainer = 2131099819;
@@ -4144,62 +4150,62 @@ namespace BrickventoryApp
 			// aapt resource value: 0x7f0600ac
 			public const int Widget_AppCompat_NotificationActionText = 2131099820;
 			
+			// aapt resource value: 0x7f060165
+			public const int Widget_AppCompat_PopupMenu = 2131100005;
+			
+			// aapt resource value: 0x7f060166
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131100006;
+			
 			// aapt resource value: 0x7f060167
-			public const int Widget_AppCompat_PopupMenu = 2131100007;
+			public const int Widget_AppCompat_PopupWindow = 2131100007;
 			
 			// aapt resource value: 0x7f060168
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131100008;
+			public const int Widget_AppCompat_ProgressBar = 2131100008;
 			
 			// aapt resource value: 0x7f060169
-			public const int Widget_AppCompat_PopupWindow = 2131100009;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131100009;
 			
 			// aapt resource value: 0x7f06016a
-			public const int Widget_AppCompat_ProgressBar = 2131100010;
+			public const int Widget_AppCompat_RatingBar = 2131100010;
 			
 			// aapt resource value: 0x7f06016b
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131100011;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131100011;
 			
 			// aapt resource value: 0x7f06016c
-			public const int Widget_AppCompat_RatingBar = 2131100012;
+			public const int Widget_AppCompat_RatingBar_Small = 2131100012;
 			
 			// aapt resource value: 0x7f06016d
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131100013;
+			public const int Widget_AppCompat_SearchView = 2131100013;
 			
 			// aapt resource value: 0x7f06016e
-			public const int Widget_AppCompat_RatingBar_Small = 2131100014;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131100014;
 			
 			// aapt resource value: 0x7f06016f
-			public const int Widget_AppCompat_SearchView = 2131100015;
+			public const int Widget_AppCompat_SeekBar = 2131100015;
 			
 			// aapt resource value: 0x7f060170
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131100016;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131100016;
 			
 			// aapt resource value: 0x7f060171
-			public const int Widget_AppCompat_SeekBar = 2131100017;
+			public const int Widget_AppCompat_Spinner = 2131100017;
 			
 			// aapt resource value: 0x7f060172
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131100018;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131100018;
 			
 			// aapt resource value: 0x7f060173
-			public const int Widget_AppCompat_Spinner = 2131100019;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131100019;
 			
 			// aapt resource value: 0x7f060174
-			public const int Widget_AppCompat_Spinner_DropDown = 2131100020;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131100020;
 			
 			// aapt resource value: 0x7f060175
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131100021;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131100021;
 			
 			// aapt resource value: 0x7f060176
-			public const int Widget_AppCompat_Spinner_Underlined = 2131100022;
+			public const int Widget_AppCompat_Toolbar = 2131100022;
 			
 			// aapt resource value: 0x7f060177
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131100023;
-			
-			// aapt resource value: 0x7f060178
-			public const int Widget_AppCompat_Toolbar = 2131100024;
-			
-			// aapt resource value: 0x7f060179
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131100025;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131100023;
 			
 			// aapt resource value: 0x7f060001
 			public const int Widget_Design_AppBarLayout = 2131099649;
