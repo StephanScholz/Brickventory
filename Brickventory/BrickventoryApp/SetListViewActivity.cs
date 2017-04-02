@@ -41,6 +41,10 @@ namespace BrickventoryApp
                     UserSession.GetInstance().Logout();
                     StartActivity(typeof(LoginActivity));
                     break;
+
+                case Resource.Id.nav_settings:
+                    StartActivity(typeof(SettingsActivity));
+                    break;
                 /*case Resource.Id.new_game:
                     //do something
                     return true;
